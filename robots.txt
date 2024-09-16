@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blomidera.github.io/sitemap.html.gz
+Sitemap: https://blomidera.github.io/app/sitemap.html.gz
+Sitemap: https://blomidera.github.io/assets/sitemap.html.gz
+Sitemap: https://blomidera.github.io/css/sitemap.html.gz
+Sitemap: https://blomidera.github.io/includes/sitemap.html.gz
+Sitemap: https://blomidera.github.io/item/sitemap.html.gz
+Sitemap: https://blomidera.github.io/src/sitemap.html.gz
